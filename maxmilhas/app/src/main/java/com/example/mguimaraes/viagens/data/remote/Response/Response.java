@@ -1,9 +1,9 @@
-package com.example.mguimaraes.viagens.data.remote.Response;
+package com.example.mguimaraes.viagens.data.remote.response;
 
 import android.support.annotation.Nullable;
 
-import static com.example.mguimaraes.viagens.data.remote.Response.Status.ERROR;
-import static com.example.mguimaraes.viagens.data.remote.Response.Status.SUCCESS;
+import static com.example.mguimaraes.viagens.data.remote.response.Status.ERROR;
+import static com.example.mguimaraes.viagens.data.remote.response.Status.SUCCESS;
 
 public class Response<T> {
 

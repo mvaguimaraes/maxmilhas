@@ -11,5 +11,4 @@ public class App extends DaggerApplication {
     protected AndroidInjector<? extends App> applicationInjector() {
         return DaggerAppComponent.builder().create(this);
     }
-
 }

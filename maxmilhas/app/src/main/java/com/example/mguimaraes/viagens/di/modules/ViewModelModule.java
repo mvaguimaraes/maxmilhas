@@ -21,5 +21,4 @@ public interface ViewModelModule {
     @IntoMap
     @ViewModelKey(OutboundFlightsViewModel.class)
     ViewModel bindOutboundFlightsViewModel(OutboundFlightsViewModel viewModel);
-
 }

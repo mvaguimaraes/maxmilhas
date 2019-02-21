@@ -3,7 +3,7 @@ package com.example.mguimaraes.viagens.ui.viewmodels;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
 
-import com.example.mguimaraes.viagens.data.remote.Response.Response;
+import com.example.mguimaraes.viagens.data.remote.response.Response;
 import com.example.mguimaraes.viagens.domain.model.Flights;
 import com.example.mguimaraes.viagens.domain.repository.OutboundFlightsRepository;
 import com.example.mguimaraes.viagens.util.schedulers.BaseScheduler;

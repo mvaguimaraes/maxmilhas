@@ -1,4 +1,4 @@
-package com.example.mguimaraes.viagens.data.remote.Response;
+package com.example.mguimaraes.viagens.data.remote.response;
 
 public final class Status {
 
